@@ -1,0 +1,27 @@
+
+Heu...Heu...Heu... Heu...Heu...Heu... Heu...Heu...Heu... Heu...				initialize counter (cell #0) to 10
+Heu, heu!																	use loop to set the next four cells to 70/100/30/10
+    Heu ! Heu...Heu...Heu... Heu...Heu...Heu... Heu...						add  7 to cell #1
+    Heu ! Heu...Heu...Heu... Heu...Heu...Heu... Heu...Heu...Heu... Heu...	add 10 to cell #2 
+    Heu ! Heu...Heu...Heu...												add  3 to cell #3
+    Heu ! Heu...															add  1 to cell #4
+    Heu ?Heu ?Heu ? Heu ? Heu.												decrement counter (cell #0)
+Heu, heu?                   
+Heu !Heu...Heu... Heu, j'avais pensé que.									print 'H'
+Heu !Heu...Heu, j'avais pensé que.											print 'e'
+Heu...Heu...Heu... Heu...Heu...Heu... Heu...Heu, j'avais pensé que.			print 'l'
+Heu, j'avais pensé que.														print 'l'
+Heu...Heu...Heu... Heu, j'avais pensé que.									print 'o'
+Heu !Heu...Heu... Heu, j'avais pensé que.									print ' '
+Heu ?Heu ?Heu...
+Heu...Heu...Heu... 
+Heu...Heu...Heu... 
+Heu...Heu...Heu... 
+Heu...Heu...Heu... 
+Heu...Heu...Heu, j'avais pensé que.											print 'W'
+Heu !Heu, j'avais pensé que.												print 'o'
+Heu...Heu...Heu... Heu, j'avais pensé que.									print 'r'
+Heu.Heu.Heu. Heu.Heu.Heu. Heu, j'avais pensé que.							print 'l'
+Heu.Heu.Heu. Heu.Heu.Heu. Heu.Heu.Heu, j'avais pensé que.					print 'd'
+Heu !Heu...Heu, j'avais pensé que.											print '!'
+Heu !Heu, j'avais pensé que.												print '\n'
