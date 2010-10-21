@@ -1,6 +1,6 @@
 /*
  *  Created by Lionel Sambuc on 03.dec.2009.
- *  Copyright 2009. All rights reserved.
+ *  Copyright 2009-2010. All rights reserved.
  *
  */
 #include <stdio.h>

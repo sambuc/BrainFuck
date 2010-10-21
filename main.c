@@ -1,6 +1,6 @@
 /*
  *  Created by Lionel Sambuc on 03.12.09.
- *  Copyright 2009. All rights reserved.
+ *  Copyright 2009-2010. All rights reserved.
  *
  */
 
