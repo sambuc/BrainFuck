@@ -171,7 +171,7 @@ int main(int argc, const char *argv[])
 	{
 		perror("init");
 		printf(COLOR_ERR "Error during the loading of '%s'." COLOR_RST "\n", options.filename);
-		return 1;
+		return err;
 	}
 	
 	/* Print the program as loaded into memory. */
