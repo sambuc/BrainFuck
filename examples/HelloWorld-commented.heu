@@ -7,7 +7,7 @@ Heu, heu!																	use loop to set the next four cells to 70/100/30/10
     Heu ! Heu...															add  1 to cell #4
     Heu ?Heu ?Heu ? Heu ? Heu.												decrement counter (cell #0)
 Heu, heu?                   
-Heu !Heu...Heu... Heu, j'avais pensé que.									print 'H'
+Heu !Heu...Heu... Heu, j'avais pensé que.									print 'h'
 Heu !Heu...Heu, j'avais pensé que.											print 'e'
 Heu...Heu...Heu... Heu...Heu...Heu... Heu...Heu, j'avais pensé que.			print 'l'
 Heu, j'avais pensé que.														print 'l'
